@@ -1,0 +1,18 @@
+body{
+	background:url("Graphic Design Wallpapers (6).jpg") no-repeat center center; 
+
+background-size:cover;
+  background-attachment:fixed;
+}
+
+h1{
+
+  color: white;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
