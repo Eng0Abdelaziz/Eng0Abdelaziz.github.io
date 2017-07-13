@@ -24,6 +24,15 @@ body {
   width: 100%;
   z-index: 10000;
 }
+.searchPeople{
+background-color: white;
+background-position: center center;
+width: : 100%;
+height: 20px;
+border-radius: 2px;
+
+}
+
 
 ul {
   padding: 0;
@@ -135,3 +144,18 @@ a {
 .blue {
   color: #14213D !important;
 }
+.basic{
+
+  color: white;
+    font-weight: 500;
+    font-size: 24px;
+
+
+}
+
+.basic2{
+  color:-webkit-linear-gradient(#000,#BC1324);
+    font-weight: 500;
+    font-size: 23px;
+}
+
